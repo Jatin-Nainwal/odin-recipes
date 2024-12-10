@@ -1,0 +1,15 @@
+h1{
+    color: rgb(156, 10, 10);
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+}
+body{
+    background-color: lightgreen;
+}
+ul{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
